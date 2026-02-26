@@ -157,10 +157,6 @@ export default function App() {
                 <span>한국예술종합학교 음악원 작곡과</span>
                 <span className="text-mono text-xs text-[#666] shrink-0">2016 - 2020</span>
               </li>
-              <li className="flex justify-between items-start gap-4">
-                <span>강원예술고등학교 작곡 전공</span>
-                <span className="text-mono text-xs text-[#666] shrink-0">2013 - 2016</span>
-              </li>
             </ul>
           </motion.div>
         </section>
