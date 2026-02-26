@@ -636,7 +636,7 @@ export default function App() {
             </a>
 
             {/* Crepe Card */}
-            <a href="https://crepe.cm/" target="_blank" rel="noopener noreferrer" className="group hardware-panel p-8 relative overflow-hidden flex flex-col justify-between min-h-[240px] transition-all hover:border-[#2266f0]/30">
+            <a href="https://crepe.cm/@_littledeath" target="_blank" rel="noopener noreferrer" className="group hardware-panel p-8 relative overflow-hidden flex flex-col justify-between min-h-[240px] transition-all hover:border-[#2266f0]/30">
               <div className="absolute top-0 right-0 w-64 h-64 bg-[#2266f0]/5 rounded-full blur-3xl -translate-y-1/2 translate-x-1/2 pointer-events-none group-hover:bg-[#2266f0]/10 transition-colors duration-500"></div>
               <div className="halftone-overlay"></div>
               <div className="flex justify-between items-start z-10">
