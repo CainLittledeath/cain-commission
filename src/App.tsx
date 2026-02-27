@@ -8,9 +8,10 @@ import { AudioPlayer } from './components/AudioPlayer';
 // 예: image: 'https://내이미지링크.com/image.jpg'
 const WORKS = [
   { id: '01', title: '𝕸𝖆𝖈𝖌𝖚𝖋𝖋𝖎𝖓', role: '청강문화산업대학교(2024)', year: '2023', image: 'https://od.lk/s/OF8yMDI2MjEzNzhf/1.jpg' },
-  { id: '02', title: 'The devil within : SATGAT', role: 'Newcore games', year: '2024', image: 'https://od.lk/s/OF8yMDI2MjEzNzVf/2.jpg' },
-  { id: '03', title: 'Maplestory M : Kanna PV', role: 'NEXON games', year: '2023', image: 'https://od.lk/s/OF8yMDI2MjEzNzdf/3.jpg' },
-  { id: '04', title: 'Dawn Of Llight', role: '계명대학교(2026)', year: '2025', image: 'https://od.lk/s/OF8yMDI2MjEzNzZf/4.jpg' },
+  { id: '02', title: '아모레퍼시픽 : 북촌 조향사의 집 展 (2023)', role: 'Amore Pacific', year: '2023', image: 'https://od.lk/s/OF8yMDI2Mzk4MTRf/amorepacific.webp' },
+  { id: '03', title: 'The devil within : SATGAT', role: 'Newcore games', year: '2024', image: 'https://od.lk/s/OF8yMDI2MjEzNzVf/2.jpg' },
+  { id: '04', title: 'Maplestory M : Kanna PV', role: 'NEXON games', year: '2023', image: 'https://od.lk/s/OF8yMDI2MjEzNzdf/3.jpg' },
+  { id: '05', title: 'Dawn Of Llight', role: '계명대학교(2026)', year: '2025', image: 'https://od.lk/s/OF8yMDI2MjEzNzZf/4.jpg' },
 ];
 
 export default function App() {
@@ -182,6 +183,7 @@ export default function App() {
                 { year: '2025', title: '≪The devil within - SATGAT≫', role: 'Game' },
                 { year: '2025', title: 'SANDY FLOOR - ≪Great toy showdown≫', role: 'Game' },
                 { year: '2024', title: '메이플스토리 M - 칸나 PV', role: 'Animation' },
+                { year: '2023', title: '아모레퍼시픽 - 북촌 조향사의 집 展', role: 'Promotion' },
                 { year: '2022 ~ 2024', title: '≪Macguffin≫ 외 인디 애니메이션 다수', role: 'Animation' },
               ].map((item, idx) => (
                 <li key={idx} className="flex justify-between items-start gap-4 group hover:bg-white/5 transition-colors px-2 -mx-2 rounded-sm py-1">
