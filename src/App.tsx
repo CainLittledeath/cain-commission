@@ -481,7 +481,7 @@ export default function App() {
                     <ul className="text-base md:text-lg text-[#d4d4d4] font-light leading-relaxed space-y-4">
                       <li className="flex gap-4"><span className="text-[#2266f0] font-bold">01</span><span>기본 견적에서 할인이 적용됩니다. </span></li>
                       <li className="flex gap-4"><span className="text-[#2266f0] font-bold">02</span><span>작업 완료 후에도 무상 A/S(수정)가 추가 제공됩니다.</span></li>
-                      <li className="flex gap-4"><span className="text-[#2266f0] font-bold">03</span><span>우선 작업 배정이 가능합니다.</span></li>
+                      <li className="flex gap-4"><span className="text-[#2266f0] font-bold">03</span><span>우선 작업 배정, 작업 완성 후 후불결제가 가능합니다.</span></li>
                     </ul>
                   </div>
                   
