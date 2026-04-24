@@ -356,7 +356,7 @@ export default function App() {
                   <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mt-12">
                     <div className="border border-[#2266f0]/30 p-6 relative group hover:bg-[#2266f0]/5 transition-colors">
                       <div className="text-mono text-[10px] text-[#2266f0] mb-2 tracking-widest">PRICE</div>
-                      <div className="text-2xl font-light text-white">30,000<span className="text-sm text-[#666] ml-1">KRW</span></div>
+                      <div className="text-2xl font-light text-white">20,000<span className="text-sm text-[#666] ml-1">KRW</span></div>
                     </div>
                     <div className="border border-white/10 p-6 relative group hover:bg-white/5 transition-colors">
                       <div className="text-mono text-[10px] text-[#666] mb-2 tracking-widest">LENGTH</div>
@@ -492,8 +492,8 @@ export default function App() {
                     <div className="border border-[#2266f0]/30 p-6 relative group hover:bg-[#2266f0]/5 transition-colors">
                       <div className="text-mono text-[10px] text-[#2266f0] mb-2 tracking-widest">TYPE 1 VIP PRICE</div>
                       <div className="flex items-baseline gap-3">
-                        <span className="text-lg text-[#666] line-through">30,000</span>
-                        <div className="text-2xl font-light text-white">20,000<span className="text-sm text-[#666] ml-1">KRW</span></div>
+                        <span className="text-lg text-[#666] line-through">20,000</span>
+                        <div className="text-2xl font-light text-white">10,000<span className="text-sm text-[#666] ml-1">KRW</span></div>
                       </div>
                     </div>
                     <div className="border border-[#2266f0]/30 p-6 relative group hover:bg-[#2266f0]/5 transition-colors">
