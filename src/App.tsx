@@ -266,13 +266,13 @@ export default function App() {
                   <div className="flex flex-col gap-2">
                     <div className="flex items-center gap-2 mb-1">
                       <div className="w-1 h-1 bg-[#2266f0]"></div>
-                      <span className="text-xs text-[#666] tracking-widest">TYPE 2. Orchestra</span>
+                      <span className="text-xs text-[#666] tracking-widest">TYPE 2. Character theme(Cyphers concept)</span>
                     </div>
                     <div className="w-full aspect-video border border-[#2266f0]/20 rounded-sm overflow-hidden relative group bg-[#0a0a0a]">
                       <iframe 
                         width="100%" 
                         height="100%" 
-                        src="https://www.youtube.com/embed/H-VqncDmwjI" 
+                        src="https://www.youtube.com/embed/YmX_oJt90tE" 
                         title="YouTube video player" 
                         frameBorder="0" 
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
@@ -294,9 +294,9 @@ export default function App() {
                   <AudioPlayer title="TYPE 1. Track 02(Commission, Piano solo)" src="https://od.lk/s/OF8yMDI2MzY2NzZf/1-piano.mp3" />
                   <AudioPlayer title="TYPE 1. Track 03(Musicbox)" src="https://od.lk/s/OF8yMDI2MzY2ODBf/2-musicbox.mp3" />
                   <AudioPlayer title="TYPE 2. Track 04(Commission, Chamber + hybrid part only)" src="https://od.lk/s/OF8yMDI2MzY2NzVf/6-chamber%20hybrid.mp3" />
-                  <AudioPlayer title="TYPE 2. Track 05(Commission, Metal)" src="https://od.lk/s/OF8yMDI2MzY2Nzdf/4-metal.mp3" />
+                  <AudioPlayer title="TYPE 2. Track 05(Gothic, mystery, lofi)" src="https://od.lk/s/OF8yMDQ0MjIzODBf/5-gothic-mystery%2C%20lofi.mp3" />
                   <AudioPlayer title="TYPE 2. Track 06(Commission, Rock + experimental)" src="https://od.lk/s/OF8yMDI2MzY2Nzlf/5-rock.mp3" />
-                  <AudioPlayer title="TYPE 2. Track 07(Commission, Dark orchestra)" src="https://od.lk/s/OF8yMDI2MzY2Nzhf/7-darkorch.mp3" />
+                  <AudioPlayer title="TYPE 2. Track 07(Mythic, arcane, ethnic)" src="https://od.lk/s/OF8yMDQ0MjIzODFf/7-mystery%2Carcane.mp3" />
 
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function App() {
                     <p>본격적인 음악을 원하실 때 여기에 신청하실 수 있습니다.</p>
                     <p>원하시는 악기와 장르가 있으시면 견적상담 후 가능한 선에서 맞춰드립니다. </p>
                     <p>외주 신청 시 저작권·계약서 측면을 고려하여 현재 소속된 업체 쪽으로 연결해 드립니다. </p>
-                    <p className="text-sm text-[#888] mt-2">(외주 문의는 아래 메일이나 lemonsound.kr로 접속 후 _Littledeath 작곡가를 지목해 주세요.) </p>
+                    <p className="text-sm text-[#888] mt-2">(외주 문의는 아래 메일이나 lemonsound.kr로 접속 후 _Littledeath 작곡가에게 1:1 의뢰 부탁드립니다.) </p>
                   </div>
                   
                   {/* Info Boxes */}
