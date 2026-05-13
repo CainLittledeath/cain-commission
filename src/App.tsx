@@ -247,13 +247,13 @@ export default function App() {
                   <div className="flex flex-col gap-2">
                     <div className="flex items-center gap-2 mb-1">
                       <div className="w-1 h-1 bg-[#2266f0]"></div>
-                      <span className="text-xs text-[#666] tracking-widest">TYPE 2. Character theme</span>
+                      <span className="text-xs text-[#666] tracking-widest">TYPE 2. Orchestra(Narrative concept)</span>
                     </div>
                     <div className="w-full aspect-video border border-[#2266f0]/20 rounded-sm overflow-hidden relative group bg-[#0a0a0a]">
                       <iframe 
                         width="100%" 
                         height="100%" 
-                        src="https://www.youtube.com/embed/3ECGk95wmAc" 
+                        src="https://www.youtube.com/embed/oq-ohCg64X0" 
                         title="YouTube video player" 
                         frameBorder="0" 
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
